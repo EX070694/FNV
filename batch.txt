@@ -1,4 +1,3 @@
-; MAX SPECIAL
 player.setav strength 10
 player.setav perception 10
 player.setav endurance 10
@@ -6,8 +5,6 @@ player.setav charisma 10
 player.setav intelligence 10
 player.setav agility 10
 player.setav luck 10
-
-; MAX SKILLS
 player.modav barter 100 
 player.modav energyweapons 100
 player.modav explosives 100
@@ -21,3 +18,147 @@ player.modav sneak 100
 player.modav speech 100
 player.modav survival 100
 player.modav unarmed 100
+player.addperk 0015EADB; Abominable
+player.addperk 00031DBA; Action Boy
+player.addperk 0007B202; Action Girl
+player.addperk 00094EC4; Adamantium Skeleton
+player.addperk 0015EAE0; Animal Control
+player.addperk 00031DB5; Animal Friend
+player.addperk 0015EADF; Beautiful Beatdown
+player.addperk 00031DBB; Better Criticals
+player.addperk 0015C60B; Better Healing
+player.addperk 00094EB8; Black Widow
+player.addperk 0017B790; Blood of the Legion
+player.addperk 00094EBA; Bloody Mess
+player.addperk 0017714E; Bonds of Steel
+player.addperk 0015EAD7; Bug Stomper
+player.addperk 00167723; Calm Heart
+player.addperk 00167E26; Camel of the Mojave
+player.addperk 00094EBC; Cannibal
+player.addperk 0017714F; Causeless Rebel
+player.addperk 00165182; Center of Mass
+player.addperk 00099827; Chem Resistant
+player.addperk 0009982D; Chemist
+player.addperk 001361B3; Cherchez La Femme
+player.addperk 00099828; Commando
+player.addperk 00031DE1; Comprehension
+player.addperk 00031DC4; Computer Whiz
+player.addperk 00044CAF; Concentrated Fire
+player.addperk 001361B4; Confirmed Bachelor
+player.addperk 00138562; Cowboy
+player.addperk 0015EAD8; Day Tripper
+player.addperk 00031DAB; Demolition Expert
+player.addperk 0015EAE1; Dine and Dash
+player.addperk 00031DD8; Educated
+player.addperk 0014C130; Empathy Synthesizer
+player.addperk 0015C60E; Enhanced Sensors
+player.addperk 00031DD9; Entomologist
+player.addperk 00031DE5; Explorer
+player.addperk 0013E6BD; Faithful Protector
+player.addperk 00094EBF; Fast Metabolism
+player.addperk 0015EAD9; Fast Times
+player.addperk 00165118; Ferocious Loyalty
+player.addperk 00094EC1; Finesse
+player.addperk 00031DE3; Fortune Finder
+player.addperk 0015EADA; Free Radical
+player.addperk 00165118; Friend of the Night
+player.addperk 0015EAE3; Friendly Help
+player.addperk 0015D2BC; Full Maintenance
+player.addperk 00135EC9; Ghastly Scavenger
+player.addperk 00099834; Grim Reaper's Sprint
+player.addperk 00094EBB; Gunslinger
+player.addperk 0016581B; Hand Loader
+player.addperk 00163349; Hand of Vengeance
+player.addperk 0014609C; Heave, Ho!
+player.addperk 00031DAC; Here and Now
+player.addperk 001651B6; Hit the Deck
+player.addperk 00135F18; Hunter
+player.addperk 0014C069; Hypertrophy Accelerator
+player.addperk 00044CB0; Infiltrator
+player.addperk 00044CB1; Intense Training
+player.addperk 00165815; Jury Rigging
+player.addperk 0015B8E7; Khan Trick
+player.addperk 00094EB9; Lady Killer
+player.addperk 00165789; Laser Commander
+player.addperk 00044CA9; Lead Belly
+player.addperk 0015B8E9; Legion Assault
+player.addperk 00031DB1; Life Giver
+player.addperk 00031DB7; Light Step
+player.addperk 00146099; Living Anatomy
+player.addperk 0014C132; Logic Co-Processor
+player.addperk 00146098; Long Haul
+player.addperk 0015EAE4; Lord Death
+player.addperk 0015EADC; Machine Head
+player.addperk 00135EC3; Math Wrath
+player.addperk 00164AFB; Meat of Champions
+player.addperk 0015EADE; Melee Hacker
+player.addperk 0014609A; Meltdown
+player.addperk 00137800; Miss Fortune
+player.addperk 00031DAD; Mister Sandman
+player.addperk 0015EAE2; Mutant Massacre
+player.addperk 00031DBC; Mysterious Stranger
+player.addperk 0014CCDF; NEMEAN
+player.addperk 00044CA7; Nerd Rage!
+player.addperk 000E2C49; Nerves of Steel
+player.addperk 00094EBD; Night Person
+player.addperk 00031DCC; Ninja
+player.addperk 0014C12E; Nociception Regulator
+player.addperk 00165AE6; Nuka Chemist
+player.addperk 0015D2BE; Old Vaquero
+player.addperk 0014C12D; Optics Enhancer
+player.addperk 0014609B; Pack Rat
+player.addperk 00044CAA; Paralyzing Palm
+player.addperk 0014CCE1; PHOENIX
+player.addperk 0014609F; Piercing Strike
+player.addperk 00165AEF; Plasma Spaz
+player.addperk 00058FDF; Power Armor Training
+player.addperk 0014C134; Probability Calculator
+player.addperk 00135F75; Purifier
+player.addperk 00031DB2; Pyromaniac
+player.addperk 001377FE; Quick Draw
+player.addperk 000E2C4A; Rad Absorption
+player.addperk 001656FD; Rad Child
+player.addperk 00031DA9; Rad Resistance
+player.addperk 0015B8E8; Ranger Takedown
+player.addperk 001377FD; Rapid Reload
+player.addperk 0014C12A; Reflex Booster
+player.addperk 0015C610; Regular Maintenance
+player.addperk 0010F09E; Retention
+player.addperk 00031DC2; Robotics Expert
+player.addperk 0014609D; Run 'n Gun
+player.addperk 0015C613; Scribe Assistant
+player.addperk 0015B8EA; Scribe Counter
+player.addperk 00031DAA; Scrounger
+player.addperk 0015C611; Search and Mark
+player.addperk 0015EADD; Set Lasers for Fun
+player.addperk 0016578B; Shotgun Surgeon
+player.addperk 00031DB3; Silent Running
+player.addperk 00165446; Slayer
+player.addperk 00031DB4; Sniper
+player.addperk 00031DC5; Solar Powered
+player.addperk 00165AF0; Splash Damage
+player.addperk 0015C60C; Spotter
+player.addperk 00165181; Spray and Pray
+player.addperk 0015C60F; Stealth Girl
+player.addperk 00165449; Stonewall
+player.addperk 00031DDE; Strong Back
+player.addperk 0014609E; Super Slam
+player.addperk 00031DD3; Swift Learner
+player.addperk 00031DBD; Tag!
+player.addperk 0010C6CD; Terrifying Presence
+player.addperk 00165AEC; The Professional
+player.addperk 0015EAD6; Tough Guy
+player.addperk 00031DE0; Toughness
+player.addperk 00146096; Travel Light
+player.addperk 0013E6BE; Unshakeable Tracker
+player.addperk 00165447; Unstoppable Force
+player.addperk 00165816; Vigilant Recycle
+player.addperk 00146097; Weapon Handling
+player.addperk 0015C60D; Whiskey Rose
+player.setav carryweight 9999
+player.additem 04008856 1; Riot Gear Helmet
+player.additem 0400885B 1; Elite Riot Gear
+player.additem 0500080E 1; Medicine Stick
+player.additem 0500084F 1; Anti-Material Rifle
+player.additem 0007EA25 1; Grenade Launcher
+player.additem 00129A44 1; Ranger Sequoia
