@@ -156,7 +156,7 @@ player.addperk 00165816; Vigilant Recycle
 player.addperk 00146097; Weapon Handling
 player.addperk 0015C60D; Whiskey Rose
 player.setav carryweight 9999
-player.additem 04008856 1; Riot Gear Helmet
+player.additem 02008856 1; Riot Gear Helmet
 player.additem 0400885B 1; Elite Riot Gear
 player.additem 0500080E 1; Medicine Stick
 player.additem 0500084F 1; Anti-Material Rifle
