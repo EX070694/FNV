@@ -1,0 +1,9 @@
+; APPAREL
+player.additem 00145EC5 1; Ranger Helmet
+player.additem 0200885B 1; Elite Riot Gear
+player.additem 0100080D 1; Sleepytyme
+player.additem 0100084F 1; Anti-Materiel Rifle
+player.additem 0000000F 9999999; Cash
+player.additem 0000000A 999; Bobby Pins
+player.additem 0200917D 999; Super Stimpaks
+player.additem 00015167 999; Radaway

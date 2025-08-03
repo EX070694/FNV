@@ -1,0 +1,5 @@
+; BASE GAME
+player.additem 0013E43B 9999; 10mm Hollow Point
+
+; DLC
+player.additem 0100085B 9999; .50MG Explosive

@@ -1,0 +1,13 @@
+player.additem 02004C3C 1; Red Glare
+player.additem 02009259 1; Alpha Strike Mod
+player.additem 0200925D 1; Auto Launcher Mod
+player.additem 02009258 1; Far Sighting Mod
+player.additem 02009263 999; Rocket, High Explosive
+
+Ulysses Audio Logs
+player.additem 0200CD6F; (log Y-17.15)
+player.additem 0200CD70; (log Y-17.16)
+player.additem 0200CD71; (log Y-17.17)
+player.additem 0200CD72; (log Y-17.21)
+player.additem 0200CD73; (log Y-17.22)
+player.additem 0200CD93; (log Y-17.23)
