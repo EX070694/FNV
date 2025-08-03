@@ -5,11 +5,19 @@ player.setav health 9999
 player.setav actionpoints 9999
 player.setav carryweight 9999
 SetPcCanUsePowerArmor 1
+player.additem 0000000F 9999999; Cash
+player.additem 0000000A 999; Bobby Pins
+player.additem 00015167 999; Radaway
+player.additem 0200917D 999; Super Stimpaks
+player.additem 00145EC5 1; Ranger Helmet
+player.additem 0200885B 1; Elite Riot Gear
+player.additem 0100080D 1; Sleepytyme
+player.additem 0100084F 1; Anti-Materiel Rifle
 
 ; MAX SPECIAL
 player.setav strength 9
-player.setav perception 9
-player.setav endurance 9
+player.setav perception 10
+player.setav endurance 10
 player.setav charisma 10
 player.setav intelligence 10
 player.setav agility 10
