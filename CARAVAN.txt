@@ -3,20 +3,20 @@ player.additem 001649B1 1
 player.additem 001649BE 1
 player.additem 001649A3 1
 player.additem 001649CA 1
+player.additem 001649B2 1
+player.additem 001649BF 1
+player.additem 001649A2 1
+player.additem 001649C9 1
 player.additem 001649B3 1
 player.additem 001649AE 1
 player.additem 001649A1 1
 player.additem 001649C8 1
-player.additem 001649C0 1
-player.additem 001649B8 1
-player.additem 001649A9 1
-player.additem 001649D0 1
 player.additem 001649B6 1
 player.additem 001649AB 1
 player.additem 0016499E 1
 player.additem 001649C5 1
 
-;GAMORRAH
+; GAMORRAH
 player.additem 00166EC3 1
 player.additem 00166ED0 1
 player.additem 00166EDD 1
@@ -29,46 +29,64 @@ player.additem 00166EC5 1
 player.additem 00166ED2 1
 player.additem 00166EDF 1
 player.additem 00166EEE 1
-player.additem 00166EBD 1
-player.additem 00166ECA 1
-player.additem 00166ED7 1
-player.additem 00166EE6 1
+player.additem 00166EC8 1
+player.additem 00166ED5 1
+player.additem 00166EE2 1
+player.additem 00166EF1 1
 player.additem 00166EC8 1
 player.additem 00166ED5 1
 player.additem 00166EE2 1
 player.additem 00166EF1 1
 
-; ULTRA-LUXE
+; LUCKY 38
 player.additem 00166F32 1
 player.additem 00166F3F 1
 player.additem 00166F4C 1
 player.additem 00166F5B 1
+player.additem 00166F33 1
+player.additem 00166F40 1
+player.additem 00166F4D 1
+player.additem 00166F5C 1
 player.additem 00166F34 1
 player.additem 00166F41 1
 player.additem 00166F4E 1
 player.additem 00166F5D 1
-player.additem 00166F2C 1
-player.additem 00166F39 1
-player.additem 00166F46 1
-player.additem 00166F55 1
 player.additem 00166F37 1
 player.additem 00166F44 1
 player.additem 00166F51 1
 player.additem 00166F60 1
+
+; ULTRA-LUXE
+player.additem 00166EF9 1
+player.additem 00166F06 1
+player.additem 00166F13 1
+player.additem 00166F22 1
+player.additem 00166EFA 1
+player.additem 00166F07 1
+player.additem 00166F14 1
+player.additem 00166F23 1
+player.additem 00166EFB 1
+player.additem 00166F08 1
+player.additem 00166F15 1
+player.additem 00166F24 1
+player.additem 00166EFE 1
+player.additem 00166F0B 1
+player.additem 00166F18 1
+player.additem 00166F27 1
 
 ; SIERRA MADRE
 player.additem 050134B4 1
 player.additem 050134E5 1
 player.additem 050134D8 1
 player.additem 050134A7 1
+player.additem 050134B5 1
+player.additem 050134E6 1
+player.additem 050134D9 1
+player.additem 050134A8 1
 player.additem 050134B6 1
 player.additem 050134E7 1
 player.additem 050134DA 1
 player.additem 050134A9 1
-player.additem 050134AE 1
-player.additem 050134DF 1
-player.additem 050134D2 1
-player.additem 05013469 1
 player.additem 050134B9 1
 player.additem 050134EA 1
 player.additem 050134DD 1
