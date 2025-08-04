@@ -1,0 +1,4 @@
+player.additem 00145EC5 1; Ranger Helmet
+player.additem 0200885B 1; Elite Riot Gear
+player.additem 0100080D 1; Sleepytyme
+player.additem 0100084F 1; Anti-Materiel Rifle
